@@ -114,10 +114,3 @@ contract bankAccount{
         }
   
 }
-
-
-//After deploying using foundry
-// Deployer: 0x96743A8172Ba6329EdaE8373A50a0ABD2D231962
-// Contract address: 0x81f924C76Ff95e27678C539611F80c9bB1C5839f
-// Transaction hash: 0xaeb68e3aca2d7dcc9e0d35210d83cc4b0f32e158fca4b7e4ba148fd75ee17bbb
-
